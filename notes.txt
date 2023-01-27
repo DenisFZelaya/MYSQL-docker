@@ -1,0 +1,1 @@
+Con las credenciales podemos abrir un gestor de mysql y conectarnos a la db

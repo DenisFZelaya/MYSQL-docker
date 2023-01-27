@@ -1,0 +1,8 @@
+*.log
+*.sdi
+*.pem
+*.idb
+*.CSM
+*.CSV
+*.sdi
+*.sock
